@@ -13,6 +13,7 @@ namespace Pruebita_XD
             Console.WriteLine("Hola mundo");
             Console.WriteLine("soy malleck");
             Console.WriteLine("Como vas ?");
+            Console.WriteLine("TMRE");
         }
     }
 }

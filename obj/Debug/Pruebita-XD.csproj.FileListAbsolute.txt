@@ -6,3 +6,8 @@ C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.SuggestedBindin
 C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.exe
 C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.pdb
+C:\Users\JOSUE CORDOVA\Downloads\Iconos\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.AssemblyReference.cache
+C:\Users\JOSUE CORDOVA\Downloads\Iconos\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSUE CORDOVA\Downloads\Iconos\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE CORDOVA\Downloads\Iconos\Pruebita-XD\obj\Debug\Pruebita-XD.exe
+C:\Users\JOSUE CORDOVA\Downloads\Iconos\Pruebita-XD\obj\Debug\Pruebita-XD.pdb
