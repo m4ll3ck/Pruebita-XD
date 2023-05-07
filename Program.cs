@@ -14,6 +14,8 @@ namespace Pruebita_XD
             Console.WriteLine("soy malleck");
             Console.WriteLine("Como vas ?");
             Console.WriteLine("TMRE");
+            Console.WriteLine("soy niik");
+            Console.WriteLine("XD");
         }
     }
 }
