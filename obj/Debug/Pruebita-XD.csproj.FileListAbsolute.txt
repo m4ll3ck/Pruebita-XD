@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Pruebita-XD\bin\Debug\Pruebita-XD.exe.config
+C:\Users\User\Documents\Pruebita-XD\bin\Debug\Pruebita-XD.exe
+C:\Users\User\Documents\Pruebita-XD\bin\Debug\Pruebita-XD.pdb
+C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.exe
+C:\Users\User\Documents\Pruebita-XD\obj\Debug\Pruebita-XD.pdb
